@@ -19,7 +19,7 @@ body{
     justify-content: space-between;
     background-color: hsl(244, 38%, 16%);
     width: 800px;
-    height: 300px;
+    height: auto;
     margin: auto;
     margin-top: 170px;
     border-radius: 10px;
